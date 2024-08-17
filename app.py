@@ -8,4 +8,4 @@ start_button = st.button('Ejecutar')
 if start_button:
     st.write(f'Experimento con {number_of_trials} intentos en curso.')
 
-st.write('Esta aplicación aún no es funcional. En construcción.')
+st.write('Esta aplicación aún no es funcional. En construcciónnnn....')
